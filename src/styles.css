@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+
+footer p{
+    left: 500px;
+}
